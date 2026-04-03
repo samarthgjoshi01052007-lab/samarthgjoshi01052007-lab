@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm  Samarth,a Computer Science student who loves building things with code.  
+I enjoy learning new stuff and  creating projects.
+Tech interests:
+Low level programming
+frontend programming
+cybersecurity
+prompt engineering
+
+hobbies: reading,cycling,coding.
+
+ 
